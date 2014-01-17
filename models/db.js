@@ -1,7 +1,7 @@
 /**
  * New node file
  */
-var settings = require('../settrings')
+var settings = require('../settings')
  Db = require('mongodb').Db,
  Connection = require('mongodb').Connection,
  Server = require('mongodb').Server;
